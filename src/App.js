@@ -7,6 +7,7 @@ import ProductDetails from './containers/ProductDetails';
 const App = () => {
 
   return (
+    
     <div className="App">
       <BrowserRouter>
         <Header />
